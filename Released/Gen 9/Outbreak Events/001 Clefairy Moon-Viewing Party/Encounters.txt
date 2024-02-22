@@ -1,6 +1,0 @@
-Event Outbreak Identifier: 20230929
-
-Clefairy Mass Outbreak
-	Level: 10-60
-	Shiny: Standard rate
-	Ribbon: MarkUpbeat (5%)
